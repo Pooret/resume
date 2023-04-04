@@ -19,13 +19,13 @@ I am a data scientist specializing in NLP and chemistry. I left my PhD at Columb
 
 ## Experience:
 **Consultant**
-- Port: Created a BERT-based model to identify honorifics in text data with 94% accuracy, allowing Port to extract personal identifiers from an information pipeline. Currently analyzing text and financial data to create a model for credit union failure prediction.
-- Brandroll: Currently developing an application that determines users that are most likely sign up for a company newsletter and sends it out at regular intervals.
+- **Port** (Nov. 2022 - Current): Created a BERT-based model to identify honorifics in text data with 94% accuracy, allowing Port to extract personal identifiers from an information pipeline. Currently analyzing text and financial data to create a model for credit union failure prediction.
+- **Brandroll** (Mar. '23 - Current): Currently developing an application that determines users that are most likely sign up for a company newsletter and sends it out at regular intervals.
 
-**IrOs, LLC.**
+**IrOs, LLC.** (Mar. 2015 - Nov. 2019)
 - Co-Founder, New York, NY: Led end-user engagement, product development, and operational planning
 
-**ExSponge, Inc.**
+**ExSponge, Inc.** (Nov. 2013 - Jan. 2015)
 - CTO, New York, NY: Developed biomimetic polymer synthesis method, co-authored patents, and created pitch decks for fundraising
 
 ## Projects:
@@ -33,11 +33,11 @@ I am a data scientist specializing in NLP and chemistry. I left my PhD at Columb
 - [Wine Quality Classification through Decision Boundary Analysis](https://github.com/Pooret/Wine-Quality-Classification): Engineered a stacking classification pipeline for wine quality prediction for red and white wines
 
 ## Education:
-**Springboard**
+**Springboard** (Jan. 2021 - Jan. 2022)
 - Data Scientist Fellow, New York: Completed Data Science Career Track with Advanced Machine Learning specialization. Roughly equivalent to a Masters in DS. Built and developed tools for analyzing and cleaning text data, developed SQL queries, 
 
-**Columbia University**
+**Columbia University** (2010 - 2013)
 - MA in Organic Chemistry, 2010-2013: Worked on catalytic ring closures of alkaloids, [published in a high-impact journal](https://www.researchgate.net/publication/236267070_An_Efficient_Approach_to_the_Securinega_Alkaloids_Empowered_by_Cooperative_N-Heterocyclic_CarbeneLewis_Acid_Catalysis)
 
-**Rensselaer Polytechnic Institute (RPI)**
+**Rensselaer Polytechnic Institute (RPI)** (2005 - 2010)
 - BS/MS in Chemistry, 2005-2010: Summa Cum Laude, Founder's Award of Excellence
