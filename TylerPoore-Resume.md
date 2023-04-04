@@ -7,7 +7,7 @@ Address: New York, NY
 LinkedIn: tylerjpoore-1825  
 
 ## Summary:
-I am a data scientist specializing in NLP and chemistry. I left my PhD at Columbia to co-found two companies in the biotech and biomedical spaces, collaborating with Columbia to develop novel IP based on my work. My background in data mining and computational chemistry has provided me with concrete experience in cleaning and parsing raw text data, as well as building and applying transformer-based models to identify chemical entities in text. Currently, I consult for several companies, working on projects that involve analyzing and extracting financial information from scraped data and building an app to identify the people most likely to sign up for a coffee newsletter. I am also working on a personal project aimed at predicting the chemical properties of drug targets with the aim of getting a role in the industry.
+I am a data scientist specializing in NLP and chemistry. I left my PhD at Columbia to co-found two companies in the biotech and biomedical spaces, collaborating with Columbia to develop novel IP based on my work. My background in data mining and computational chemistry has provided me with concrete experience in cleaning and parsing raw text data, as well as building and applying transformer-based models to identify chemical entities in text. Currently, I consult for several companies, working on projects that involve analyzing and extracting financial information from scraped data and building an app to identify the people most likely to sign up for a coffee newsletter. I am also working on a personal project aimed at predicting the chemical properties of drug targets with the aim of getting a full-time role in the industry.
 
 ## Skills:
 - Programming Languages: Python, SQL
@@ -19,7 +19,8 @@ I am a data scientist specializing in NLP and chemistry. I left my PhD at Columb
 
 ## Experience:
 **Consultant**
-- Port: Developed a model for knowledge extraction
+- Port: Created a BERT-based model to identify honorifics in text data with 94% accuracy, allowing Port to extract personal identifiers from an information pipeline. Currently analyzing text and financial data to create a model for credit union failure prediction.
+- Brandroll: Currently developing an application that determines users that are most likely sign up for a company newsletter and sends it out at regular intervals.
 
 **IrOs, LLC.**
 - Co-Founder, New York, NY: Led end-user engagement, product development, and operational planning
@@ -28,15 +29,15 @@ I am a data scientist specializing in NLP and chemistry. I left my PhD at Columb
 - CTO, New York, NY: Developed biomimetic polymer synthesis method, co-authored patents, and created pitch decks for fundraising
 
 ## Projects:
-- Predicting Company Stock Movements from CEO Tweets: Developed a tool for stock analysis using NLP techniques and machine learning models
-- Wine Quality Classification through Decision Boundary Analysis: Engineered a stacking classification pipeline for wine quality prediction
+- [Predicting Company Stock Movements from CEO Tweets](https://github.com/Pooret/Predicting-Executive-Stock-Movements): Scraped tweets using Twint from high-profile CEOS and developed a model to predict their company stock movements based off tweets
+- [Wine Quality Classification through Decision Boundary Analysis](https://github.com/Pooret/Wine-Quality-Classification): Engineered a stacking classification pipeline for wine quality prediction for red and white wines
 
 ## Education:
 **Springboard**
-- Data Scientist Fellow, New York: Completed Data Science Career Track with Advanced Machine Learning specialization
+- Data Scientist Fellow, New York: Completed Data Science Career Track with Advanced Machine Learning specialization. Roughly equivalent to a Masters in DS. Built and developed tools for analyzing and cleaning text data, developed SQL queries, 
 
 **Columbia University**
-- MA in Organic Chemistry, 2010-2013: Worked on catalytic ring closures of alkaloids, published in a high-impact journal
+- MA in Organic Chemistry, 2010-2013: Worked on catalytic ring closures of alkaloids, [published in a high-impact journal](https://www.researchgate.net/publication/236267070_An_Efficient_Approach_to_the_Securinega_Alkaloids_Empowered_by_Cooperative_N-Heterocyclic_CarbeneLewis_Acid_Catalysis)
 
 **Rensselaer Polytechnic Institute (RPI)**
 - BS/MS in Chemistry, 2005-2010: Summa Cum Laude, Founder's Award of Excellence
