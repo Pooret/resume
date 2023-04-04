@@ -34,7 +34,7 @@ I am a data scientist specializing in NLP and chemistry. I left my PhD at Columb
 
 ## Education:
 **Springboard** (Jan. 2021 - Jan. 2022)
-- Data Scientist Fellow, New York: Completed Data Science Career Track with Advanced Machine Learning specialization. Roughly equivalent to a Masters in DS. Built and developed tools for analyzing and cleaning text data, developed SQL queries, 
+- Data Scientist Fellow, New York: Completed Data Science Career Track with Advanced Machine Learning specialization. Roughly equivalent to a Masters in DS. Built and developed tools for analyzing and cleaning text data, developed end-to-end ML projects using Flask and Django and DataBricks. Developed SQL Queries for extracting data from large datasets.
 
 **Columbia University** (2010 - 2013)
 - MA in Organic Chemistry, 2010-2013: Worked on catalytic ring closures of alkaloids, [published in a high-impact journal](https://www.researchgate.net/publication/236267070_An_Efficient_Approach_to_the_Securinega_Alkaloids_Empowered_by_Cooperative_N-Heterocyclic_CarbeneLewis_Acid_Catalysis)
