@@ -7,7 +7,7 @@ Address: New York, NY
 LinkedIn: tylerjpoore-1825  
 
 ## Summary:
-I am a data scientist specializing in NLP and chemistry. I left my PhD at Columbia to co-found two companies in the biotech and biomedical spaces, collaborating with Columbia to develop novel IP based on my work. My background in data mining and computational chemistry has provided me with concrete experience in cleaning and parsing raw text data, as well as building and applying transformer-based models to identify chemical entities in text. Currently, I consult for several companies, working on projects that involve analyzing and extracting financial information from scraped data and building an app to identify the people most likely to sign up for a coffee newsletter. I am also working on a personal project aimed at predicting the chemical properties of drug targets with the aim of getting a full-time role in the industry.
+I am a data scientist specializing in NLP and chemistry. I left my PhD at Columbia to co-found two companies in the biotech and biomedical spaces, collaborating with Columbia to develop novel IP based on my work. My background in data mining and computational chemistry has provided me with concrete experience in cleaning and parsing raw text data, as well as building and applying transformer-based models to identify chemical entities in text. Currently, I consult for several companies, working on projects that involve extracting financial information from scraped data and identifying users most likely to sign up for a newsletter. I am also working on a personal projects aimed at predicting the chemical properties of drug targets. 
 
 ## Skills:
 - Programming Languages: Python, SQL
